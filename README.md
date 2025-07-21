@@ -57,6 +57,8 @@ git clone https://github.com/sigma-cyber-ghost/Ghost-Sweep-ARP.git
 cd Ghost-Sweep-ARP
 sudo apt update && sudo apt install -y python3-pip iptables mitmproxy bettercap
 pip3 install scapy scapy-http netifaces colorama psutil requests rich iptables  mitmproxy
+sudo python3 ghost_sweep_arp.py --log active_scan.log
+
 
 ```
 ## 🌐 Connect With Us
