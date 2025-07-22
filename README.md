@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 Strategic Advantages
+## 🚀 Strategic Advantages 
 
 ✅ **Clarity**  
 - Instantly recognized by red teams as ARP-based MITM suite  
